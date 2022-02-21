@@ -6,7 +6,7 @@
 
 - 🍻 Web Security Researcher && CTFer
 - ⚡ C++ / Python / C / PHP / NodeJs / HACK / JAVA / C# / Vue
-- ✍️ Also Share something At my [Blogger](http://www.zeroday.work)
+- ✍️ Also Share something At my [Blog](http://www.zeroday.work)
 - 🏃 Hacking is my Everything. Sometimes Also developers.
 
 <h6>Keep Hacking until Die</h6>
