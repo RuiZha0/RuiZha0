@@ -8,5 +8,5 @@
 - ⚡ C++ / Python / C / PHP / NodeJs / HACK / JAVA / C# / Vue
 - ✍️ Also Share something At my [Blog](http://www.zeroday.xyz)
 - 🏃 Developer / Hacker / PhD Student.
-- ♟ BUUCTF Web Ranking 1st (KillAnyone) [BUU](https://buuoj.cn/scoreboard?category=Web)
+- ♟ BUUCTF Web Hacker Ranking 1st (KillAnyone) [BUU](https://buuoj.cn/scoreboard?category=Web)
 <h6>Keep Loving until Die</h6>
