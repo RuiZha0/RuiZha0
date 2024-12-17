@@ -7,6 +7,6 @@
 - 🍻 System Security Researcher && CTFer
 - ⚡ C++ / Python / C / PHP / NodeJs / HACK / JAVA / C# / Vue
 - ✍️ Also Share something At my [Blog](http://www.zeroday.xyz)
-- 🏃 developers / hackers / PhD Student.
+- 🏃 Developer / Hacker / PhD Student.
 - ♟ BUUCTF Web Ranking 1st (KillAnyone) [BUU](https://buuoj.cn/scoreboard?category=Web)
 <h6>Keep Loving until Die</h6>
